@@ -6,4 +6,9 @@
 //
 //
 
-#include "test.h"
+#include <stdio.h>
+
+int main(){
+    printf("あなたの手札は\nゴブリン\nゾンビ\nプリン\nニンフ\nクロウラー\nです。");
+    return 0;
+}
